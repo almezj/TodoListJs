@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	position: absolute;
+	display: flex;
+	top: 250px;
+	left: 50%;
+}
+
+body h1 {
+	margin-bottom: 5px;
+}
+
+body * {
+	margin-bottom: 20px;
+}
